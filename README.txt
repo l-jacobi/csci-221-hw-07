@@ -37,3 +37,7 @@ limitation of the testing's sophistication and not of htree.cc's, as the path_to
 supposed to return a nullptr if it cannot find a path, and the testing dereferences the possible
 path.
 
+
+
+hforest.hh and hforest.cc are unfinished messes which don't compile because i spent so much time on hforest.
+They attempt to follow the guidelines given, but need a lot of reworking.
